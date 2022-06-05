@@ -1,0 +1,31 @@
+id: I8D9D4180
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-05T20:15:32.216770'
+last_modified: '2022-06-05T20:15:32.216780'
+parser: null
+source_metadata:
+  title: Tri Songdetsen Series
+  language: en
+  description: 'Texts by and about the Tibetan monarch Tri Songdetsen (khri srong
+    lde btsan, 742–c.800), who played a major role in the establishment of Buddhism
+    in Tibet:'
+  volume:
+    fE6A6:
+      title: 'Snowy Lands: Praises to the Great Dharma Emperor Tri Songdetsen'
+      base_file: fE6A6.txt
+      order: 1
+      parent: Praise
+    fAFFB:
+      title: 'Great Drum of the Devas: A Prayer to the Dharma King Tri Songdetsen'
+      base_file: fAFFB.txt
+      order: 2
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
